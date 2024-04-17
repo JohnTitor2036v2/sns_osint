@@ -30,7 +30,7 @@ domains = ["facebook.com", #/nickname
 "deviantart.com",
 "imgur.com"]
 
-slash_domains = ["facebook.com/", "instagram.com/", "twitter.com/", "pinterest.com/", "twitch.tv/", "tumblr.com/", "vk.com/"]
+slash_domains = ["facebook.com/", "instagram.com/", "twitter.com/", "twitch.tv/", "tumblr.com/", "vk.com/"] #problems with: "pinterest.com/",
 at_domains = ["youtube.com/@", "tiktok.com/@", "threads.net/@", "mastodon.social/@", ]
 other_domains = ["snapchat.com/add/", "reddit.com/user/", "linkedin.com/in/",
                   "quora.com/profile/", "discordlookup.com/user/", "bsky.app/profile/", "ok.ru/profile/", "deviantart.com/", "imgur.com/user/"]
